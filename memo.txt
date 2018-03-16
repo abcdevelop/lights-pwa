@@ -1,0 +1,30 @@
+cd C:\dev\projects\pwa-projects
+create-nuxt-app lights-pwa
+> Generating Nuxt.js project in C:\dev\projects\pwa-projects\lights-pwa
+? Project name lights-pwa
+? Project description My prime Nuxt.js project
+? Use a custom server framework express
+? Use a custom UI framework none
+? Choose rendering mode Universal
+? Use axios module yes
+? Use eslint no
+? Author name abcdevelop
+? Choose a package manager npm
+
+
+ To get started:
+
+    cd lights-pwa
+    npm run dev
+
+  To build & start for production:
+
+    cd lights-pwa
+    npm run build
+    npm start
+	
+	
+npm install --save firebase vuexfire
+npm install --save @nuxtjs/pwa
+
+
