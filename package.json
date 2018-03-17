@@ -1,7 +1,7 @@
 {
   "name": "lights-pwa",
   "version": "1.0.0",
-  "description": "My prime Nuxt.js project",
+  "description": "Nuxt.js project with PWA for testing database driven updates",
   "author": "abcdevelop",
   "private": true,
   "scripts": {
