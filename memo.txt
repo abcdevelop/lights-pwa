@@ -31,4 +31,7 @@ npm install --save @nuxtjs/pwa
 heroku create lights-pwa
 
 
-  "start_url": "/",
+
+      { rel: 'manifest',  href: '/manifest.json' }
+        "start_url": "/",
+    "@nuxtjs/pwa": "^2.0.8",
