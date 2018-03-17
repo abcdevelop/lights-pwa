@@ -1,0 +1,45 @@
+{
+  "name": "lights-pwa: data changing lights with pwa approach",
+  "short_name": "lights-pwa",
+  "icons": [
+    {
+      "src":"/static/rainbow-32x32.png",
+      "type":"image/png"
+      "size":"32x32"
+    },
+    {
+      "src":"/static/rainbow-48x48.png",
+      "type":"image/png"
+      "size":"48x48"
+    },
+    {
+      "src":"/static/rainbow-64x64.png",
+      "type":"image/png"
+      "size":"64x64"
+    },
+    {
+      "src":"/static/rainbow-128x128.png",
+      "type":"image/png"
+      "size":"128x128"
+    },
+    {
+      "src":"/static/rainbow-256x256.png",
+      "type":"image/png"
+      "size":"256x256"
+    },
+    {
+      "src":"/static/rainbow-512x512.png",
+      "type":"image/png"
+      "size":"512x512"
+    },
+    "start_url":"/"
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#3f51b5",
+    "description": "A simple changing color app data oriented, implementing a lot of PWA.",
+    "dir": "ltr",
+    "lang": "en-FR"
+  ]
+}

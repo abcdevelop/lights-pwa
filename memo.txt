@@ -22,9 +22,10 @@ create-nuxt-app lights-pwa
     cd lights-pwa
     npm run build
     npm start
-	
-	
+
+
 npm install --save firebase vuexfire
 npm install --save @nuxtjs/pwa
 
 
+heroku create lights-pwa
